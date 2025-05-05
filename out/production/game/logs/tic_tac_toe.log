@@ -1,0 +1,34 @@
+апр. 26, 2025 12:43:32 PM Buildings.TicTacToeGame <init>
+INFO: Игра в крестики-нолики создана. Ставка: 100
+апр. 26, 2025 12:43:32 PM Buildings.TicTacToeGame play
+INFO: Начало игры в крестики-нолики.
+апр. 26, 2025 12:44:11 PM Buildings.TicTacToeGame play
+INFO: Игрок выбрал: 2, Бот выбрал: 3
+апр. 26, 2025 12:44:11 PM Buildings.TicTacToeGame play
+INFO: Первым ходит: Игрок
+апр. 26, 2025 12:46:02 PM Buildings.TicTacToeGame playerMove
+INFO: Игрок сделал ход в ячейку (1, 1)
+апр. 26, 2025 12:46:02 PM Buildings.TicTacToeGame botMove
+INFO: Бот сделал ход в ячейку (1, 3)
+апр. 26, 2025 12:46:06 PM Buildings.TicTacToeGame playerMove
+INFO: Игрок сделал ход в ячейку (2, 2)
+апр. 26, 2025 12:46:06 PM Buildings.TicTacToeGame checkDiagonals
+INFO: Победа по главной диагонали
+апр. 26, 2025 12:46:06 PM Buildings.TicTacToeGame checkWin
+INFO: Победа зафиксирована для символа: X
+апр. 26, 2025 12:46:06 PM Buildings.TicTacToeGame botMove
+INFO: Бот заблокировал ход игрока
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame playerMove
+INFO: Игрок сделал ход в ячейку (3, 2)
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame checkColumns
+INFO: Победа по столбцу 3
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame checkWin
+INFO: Победа зафиксирована для символа: O
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame botMove
+INFO: Бот сделал победный ход
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame checkColumns
+INFO: Победа по столбцу 3
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame checkWin
+INFO: Победа зафиксирована для символа: O
+апр. 26, 2025 12:46:09 PM Buildings.TicTacToeGame play
+SEVERE: Бот выиграл!
